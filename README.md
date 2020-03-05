@@ -15,3 +15,8 @@
 4. yo la recuerdo ahora 
 5. era 
 6. como la primavera
+## negrita 
+**yulisaa**
+**chupalo**
+ ## cursiva
+ *yo me llamo*
