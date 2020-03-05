@@ -20,3 +20,5 @@
 **chupalo**
  ## cursiva
  *yo me llamo*
+## otro link
+[mira esto bebe](https://github.com/susannalles/MinimalEditions/wiki/B%C3%A1sicos-Markdown)
