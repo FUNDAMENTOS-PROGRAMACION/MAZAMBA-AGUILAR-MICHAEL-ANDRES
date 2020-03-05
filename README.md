@@ -22,3 +22,6 @@
  *yo me llamo*
 ## otro link
 [mira esto bebe](https://github.com/susannalles/MinimalEditions/wiki/B%C3%A1sicos-Markdown)
+## imagen 
+[mira esto bebe](https://i2.wp.com/lacomputadora.org/wp-content/uploads/2015/03/codigo-ascii.jpg?resize=665%2C405)
+
