@@ -20,17 +20,28 @@ public class TipoDeDatos {
     char letraChar = 'A';
     String cadena = "A";
     boolean VoF = false;
-    VoF = true;
+    // VoF = true;
     boolean VoF1 = true;
     
   
     
     public static void main(String[] args) {
         // TODO code application logic here
-      
+    imprimirNombre (); 
+    suma2Numeros(8,2);
+    System.out.println(suma2Numeros(8,2));
     }
-    
+   
+  public static void imprimirNombre (){
+    System.out.println("Michael");
+  
+}  
+  public static int suma2Numeros (int num1, int num2){
+      int suma = num1 + num2;
+      return suma;
+  }
 }
+
 
 // comentario de una linea
 /*
